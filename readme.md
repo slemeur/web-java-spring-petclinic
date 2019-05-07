@@ -3,7 +3,7 @@
 Spring PetClinic Sample Application
 
 # Developer Workspace
-[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?id=factorymtyoro1y0qt8tq2j)
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](http://codeready-lab-infra.apps.64a4.summit.opentlc.com/f?url=https://github.com/che-samples/web-java-spring-petclinic)
 
 This CodeReady Workspaces Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/slemeur/web-java-spring-petclinic
